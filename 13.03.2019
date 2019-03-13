@@ -1,0 +1,21 @@
+#theory 
+
+BSC (Base Station Controller) :
+- peralatan core yang diletakan indoor
+- merupakan otak untuk BTS 
+- mengontrol: handover, timeslot, radio channel allocation, measurement
+
+BTS (Base Transcriver Station)
+- merupakan equipment paling luar yang berhubungan langsung dengan mobile station (mobile phone)
+- terletak pada rumah kecil (shelter) di tower
+- komponennya terdiri dari ; transceiver, power supply, combiner, duplexor, antena, alarm
+
+perbedaan 1G, 2G, 3G, 4G:
+- singkatan dari generation yaitu generasi dari jaringan atau network
+
+GPRS ( General Packet Radio Service)
+- merupakan proses pengiriman atau penerimaan data lebih cepat dibanding CSD (circuit switch data)
+
+
+
+
